@@ -1,0 +1,4 @@
+node_modules
+DB
+.overdue_nota.sql
+.package-lock.json
